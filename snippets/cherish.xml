@@ -8,6 +8,10 @@
           fetch="https://github.com/CherishOS"
           revision="refs/heads/eleven" />
 
+  <remote name="revive"
+          fetch="https://github.com/CherishOS-Revived"
+          revision="refs/heads/eleven" />        
+
   <remote name="CherishOS-Devices"
           fetch="https://github.com/CherishOS-Devices"
           revision="refs/heads/eleven" />
