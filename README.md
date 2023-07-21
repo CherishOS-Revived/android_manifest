@@ -63,7 +63,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 To initialize your local repository, use a command like this:
 
 ```bash
-    repo init -u https://github.com/CherishOS/android_manifest.git -b eleven 
+    repo init -u https://github.com/CherishOS-Revived/android_manifest.git -b eleven 
 ```
 
 Then to sync up:
