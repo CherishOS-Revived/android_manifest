@@ -53,9 +53,9 @@
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="cherish" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="cherish" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="revive" />
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="cherish" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="cherish" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="revive" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="cherish" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cherish" />
 
@@ -80,7 +80,7 @@
   <project path="libcore" name="android_libcore" remote="cherish" />
   <project path="manifest" name="android_manifest" remote="cherish" />
   <project path="platform_testing" name="android_platform_testing" remote="cherish" />
-  <project path="vendor/cherish" name="android_vendor_cherish" remote="cherish" />
+  <project path="vendor/cherish" name="android_vendor_cherish" remote="revive" />
   <project path="vendor/gapps" name="vendor_gapps" remote="eleven-gitlab" revision="eleven" />
  
   <project path="hardware/qcom/sm7150/media" name="platform_hardware_qcom_sm7150_media" groups="pdk" remote="github/hentaiOS" revision="queenslave" />
