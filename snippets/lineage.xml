@@ -10,6 +10,9 @@
   <project path="device/oneplus/common" name="android_device_oneplus_common" remote="lineage" />
   
   <!-- External repos -->
+
+  <project path="external/robolectric-shadows" name="android_external_robolectric-shadows" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
+
   <project path="external/ant-wireless/ant_client" name="android_external_ant-wireless_ant_client" remote="lineage" />
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="lineage" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="lineage" />
